@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://HawkingDUT.github.io/sitemap.xml
